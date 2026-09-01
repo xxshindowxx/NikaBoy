@@ -13,7 +13,7 @@ It can also emulate different Games with the right SBC.
 
 # Hardware
 
-- Case: 3D Printed with ASA
+- Case: [3D Printed with ASA](https://cad.onshape.com/documents/dd91bae101324d5c429ef6cf/w/cb18bab8c2ce562646a1ddd5/e/844543bad99d799db881c0ff) or Direct download here [3D Models]
 
 - SBC: [Raspberry Zero 2 W](https://www.berrybase.de/raspberry-pi-zero-2-w)
 
