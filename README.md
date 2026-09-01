@@ -13,7 +13,7 @@ This project is licensed under the [Creative Commons Attribution-Share Alike 4.0
 
 # Before Hand
 
-- This is currently only a Prototype and it can end in bad results. i will upload eather a "How to..." tutorial or some follow pictures.
+- This is currently only a Prototype and it can end in bad results. i will upload eiather a "How to..." tutorial or some follow pictures.
 
 # Hardware
 
