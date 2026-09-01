@@ -17,7 +17,7 @@ This project is licensed under the [Creative Commons Attribution-Share Alike 4.0
 
 # Hardware
 
-- Case: [3D Printed with ASA](https://cad.onshape.com/documents/dd91bae101324d5c429ef6cf/w/cb18bab8c2ce562646a1ddd5/e/844543bad99d799db881c0ff) or Direct download here [3D Models](models/)
+- Case: [3D Printed with ASA](https://cad.onshape.com/documents/dd91bae101324d5c429ef6cf/w/cb18bab8c2ce562646a1ddd5/e/844543bad99d799db881c0ff) or Direct download here [3D Models](designs/)
 
 - SBC: [Raspberry Zero 2 W](https://www.berrybase.de/raspberry-pi-zero-2-w)
 
