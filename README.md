@@ -7,6 +7,10 @@
 - NikaBoy is a Project that emulates various games from GameBoy.
 It can also emulate different Games with the right SBC.
 
+  ## License
+
+This project is licensed under the [Creative Commons Attribution-Share Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
 # Before Hand
 
 - This is currently only a Prototype and it can end in bad results. i will upload eather a "How to..." tutorial or some follow pictures.
@@ -31,6 +35,7 @@ It can also emulate different Games with the right SBC.
 # Software
 
 - Since i used Batocera on a PC before i will use it on this too.
+
 
 
 # **DISCLAIMER**
