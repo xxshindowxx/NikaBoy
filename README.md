@@ -51,6 +51,9 @@ This project is licensed under the [Creative Commons Attribution-Share Alike 4.0
   
 - Screen: [3.5 inch/Zoll LCD from Waveshare](https://www.waveshare.com/product/3.5inch-hdmi-lcd.htm)
 
+  <img src="Images/3.5ap-m_2.jpg" width="200" alt="NikaBoy device">
+  
+
 
 # Software
 
