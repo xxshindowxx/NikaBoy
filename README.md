@@ -12,22 +12,61 @@ It can also emulate different Games with the right SBC.
 - GameBoy
 - GameBoy Color
 - GameBoy Advance
-- Nitendo Entertaiment System
+- Nintendo Entertaiment System
 - Super Nitendo Entertaiment System
 - Master System
 - Game Gear
 - PC Engine
 - Atari 2600/5200
-- Commotore 64
-- Neo Game
+- Commodore 64
+- Neo Geo
 
   ## License
 
 This project is licensed under the [Creative Commons Attribution-Share Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
-# Before Hand
+# Getting Started
 
-- This is currently only a Prototype and it can end in bad results. i will upload eiather a "How to..." tutorial or some follow pictures.
+## Prerequisites
+- Raspberry Pi Zero 2 W
+- 32GB Micro SD Card (V30 recommended)
+- 3D Printer (or pre-printed case)
+- USB Controller
+- Basic soldering skills (optional, depending on assembly)
+
+## Quick Steps
+
+1. **Print the Case**
+   - Download 3D models from [Hardware/3D Models](Hardware/3D%20Models/)
+   - Print with ASA material
+   - Estimated print time: ~8-12 hours
+
+2. **Install Batocera**
+   - Download Batocera for Pi Zero 2 W from [Batocera.org](https://batocera.org/download)
+   - Flash to SD card using [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
+   - See [Software Guide](Software/README.md) for details
+
+3. **Assemble the Device**
+   - Place Pi Zero 2 W in case
+   - Connect screen and controller
+   - Add power bank
+   - (Full assembly guide coming soon with pictures/video)
+
+4. **Add Games**
+   - Copy ROM files to SD card
+   - Boot up and play!
+
+## What's Next?
+- Check [Contributing Guidelines](CONTRIBUTING.md) to improve the design
+- Report issues or suggest improvements
+- Join our community!
+
+## Coming Soon! 
+Assembly steps and video guide will be added once the prototype is complete.
+
+For now, check:
+- [Hardware Specs](README.md#hardware)
+- [Software Setup](Software/README.md)
 
 # Hardware
 
