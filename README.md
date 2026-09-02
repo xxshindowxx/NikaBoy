@@ -81,6 +81,6 @@ This project is licensed under the [Creative Commons Attribution-Share Alike 4.0
 - I am **not responsible** for any damage, injury, or loss resulting from the use of this information
 - Check local laws and regulations before disassembling any devices
 
-- You are free to use other Hardware and Software for this Project if you want. My current subtotal is 120€
+- You are free to use other Hardware and Software for this Project if you want. My current subtotal is 122€
 
 **Use at your own risk.**
