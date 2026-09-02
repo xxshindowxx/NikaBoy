@@ -23,7 +23,7 @@ It can also emulate different Games with the right SBC.
 
   ## License
 
-This project is licensed under the [Creative Commons Attribution-Share Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+This project is licensed under the [Creative Commons Attribution-NonCommercial-Share Alike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 # Getting Started
 
