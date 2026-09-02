@@ -32,12 +32,14 @@ This project is licensed under the [Creative Commons Attribution-Share Alike 4.0
 # Hardware
 
 - Case: [3D Printed with ASA](https://cad.onshape.com/documents/dd91bae101324d5c429ef6cf/w/cb18bab8c2ce562646a1ddd5/e/844543bad99d799db881c0ff) or Direct download here [3D Models](Hardware/3D%20Models/)
-
-   <img src="Images/NikaBoy%203D.png" width="200" alt="NikaBoy device">
+  
+  <img src="Images/NikaBoy%203D.png" width="200" alt="NikaBoy device">
 
 - SBC: [Raspberry Zero 2 W](https://www.berrybase.de/raspberry-pi-zero-2-w)
 
 - Cooling: [Passiv Cooler from Waveshare](https://www.berrybase.de/waveshare-aluminiumkuehlkoerper-fuer-raspberry-pi-zero-zero-2-w)
+
+  <img src="Images/WaveshareAluminiumkhlkrperfrRaspberryPiZeroZero2W.webp" width="200" alt="NikaBoy device">
 
 - SD Car: [SanDisk 32Gb](https://www.berrybase.de/sandisk-ultra-microsdhc-a1-120mb-s-class-10-speicherkarte-adapter-32gb)
 
