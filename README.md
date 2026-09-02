@@ -47,6 +47,8 @@ This project is licensed under the [Creative Commons Attribution-Share Alike 4.0
 
 - Controller: [SNES Controller](https://www.berrybase.de/usb-2.0-controller-im-snes-design-grau)
 
+  <img src="Images/USB20ControllerimSNESDesigngrau.webp" width="200" alt="NikaBoy device">
+  
 - Screen: 3 inch/Zoll LCD from Waveshare (link will follow)
 
 
