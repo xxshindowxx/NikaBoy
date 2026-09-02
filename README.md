@@ -13,7 +13,7 @@ It can also emulate different Games with the right SBC.
 - GameBoy Color
 - GameBoy Advance
 - Nintendo Entertaiment System
-- Super Nitendo Entertaiment System
+- Super Nintendo Entertaiment System
 - Master System
 - Game Gear
 - PC Engine
