@@ -104,7 +104,7 @@ For now, check:
 
 - Since i used Batocera on a PC before i will use it on this project too.
 
-- The boot/config.txt will be edited for better Performance in "Higher" demanding Consoles
+- The boot/config.txt will be edited for better Performance with "Higher" demanding Consoles
 
 
 
