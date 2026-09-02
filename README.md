@@ -1,11 +1,25 @@
 # About NikaBoy
 
-- current version: v0.5
+- current version: v0.6
 
 - Open Source Project for an emulation device. A Project i came up myself and was suprised when i saw that a company even sold something like this way back(They are off the market).
 
 - NikaBoy is a Project that emulates various games from GameBoy.
 It can also emulate different Games with the right SBC.
+
+## Supported Consoles
+
+- GameBoy
+- GameBoy Color
+- GameBoy Advance
+- Nitendo Entertaiment System
+- Super Nitendo Entertaiment System
+- Master System
+- Game Gear
+- PC Engine
+- Atari 2600/5200
+- Commotore 64
+- Neo Game
 
   ## License
 
