@@ -45,6 +45,8 @@ This project is licensed under the [Creative Commons Attribution-Share Alike 4.0
 
 - Powerbank: [INU Rocket Pocket(P50-E1)](https://eu-main.iniushop.com/de/products/new-colorful-iniu-carry-p50-e1-power-bank-45w-smallest-10000mah)
 
+  <img src="Images/P50.webp" width="200" alt="NikaBoy device">
+
 - Controller: [SNES Controller](https://www.berrybase.de/usb-2.0-controller-im-snes-design-grau)
 
   <img src="Images/USB20ControllerimSNESDesigngrau.webp" width="200" alt="NikaBoy device">
