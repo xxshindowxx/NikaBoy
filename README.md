@@ -37,6 +37,8 @@ This project is licensed under the [Creative Commons Attribution-Share Alike 4.0
 
 - SBC: [Raspberry Zero 2 W](https://www.berrybase.de/raspberry-pi-zero-2-w)
 
+  <img src="Images/RaspberryPiZero2W.webp" width="200" alt="NikaBoy device">
+  
 - Cooling: [Passiv Cooler from Waveshare](https://www.berrybase.de/waveshare-aluminiumkuehlkoerper-fuer-raspberry-pi-zero-zero-2-w)
 
   <img src="Images/WaveshareAluminiumkhlkrperfrRaspberryPiZeroZero2W.webp" width="200" alt="NikaBoy device">
@@ -61,7 +63,9 @@ This project is licensed under the [Creative Commons Attribution-Share Alike 4.0
 
 # Software
 
-- Since i used Batocera on a PC before i will use it on this too.
+- Since i used Batocera on a PC before i will use it on this project too.
+
+- The boot/config.txt will be edited for better Performance in "Higher" demanding Consoles
 
 
 
