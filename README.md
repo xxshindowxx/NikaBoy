@@ -43,6 +43,8 @@ This project is licensed under the [Creative Commons Attribution-Share Alike 4.0
 
 - SD Car: [SanDisk 32Gb](https://www.berrybase.de/sandisk-ultra-microsdhc-a1-120mb-s-class-10-speicherkarte-adapter-32gb)
 
+  <img src="Images/SanDiskExtrememicroSDHCA1UHS-IU3SpeicherkarteAdapter32GB.webp" width="200" alt="NikaBoy device">
+
 - Powerbank: [INU Rocket Pocket(P50-E1)](https://eu-main.iniushop.com/de/products/new-colorful-iniu-carry-p50-e1-power-bank-45w-smallest-10000mah)
 
   <img src="Images/P50.webp" width="200" alt="NikaBoy device">
